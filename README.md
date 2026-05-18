@@ -4,7 +4,7 @@
 Ce projet est une application web de gestion de bibliothèque développée en PHP et MySQL.  
 Elle permet de gérer les livres, les utilisateurs ainsi que les opérations d’emprunt et de retour.
 
-## ✨ Fonctionnalités
+## ✨ Fonctionnalités:
 - Ajouter, modifier et supprimer des livres
 - Gestion des utilisateurs
 - Recherche de livres
@@ -12,7 +12,7 @@ Elle permet de gérer les livres, les utilisateurs ainsi que les opérations d�
 - Authentification administrateur
 - Interface simple et responsive
 
-## 🛠️ Technologies utilisées
+## 🛠️ Technologies utilisées:
 - PHP
 - MySQL
 - HTML / CSS
