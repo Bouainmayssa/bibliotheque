@@ -16,5 +16,4 @@ Elle permet de gérer les livres, les utilisateurs ainsi que les opérations d�
 - PHP
 - MySQL
 - HTML / CSS
-- Bootstrap
 - JavaScript
